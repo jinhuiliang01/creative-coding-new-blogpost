@@ -1,5 +1,5 @@
 import { Handlers, PageProps } from "$fresh/server.ts";
-import { getPosts, Post } from "../utils/posts.ts";
+import { getPosts, Post } from "@/utils/posts.ts";
 import ThemeToggle from "../islands/ThemeToggle.tsx";
 
 export const handler: Handlers<Post[]> = {
