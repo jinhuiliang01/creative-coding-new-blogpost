@@ -8,7 +8,7 @@ allow_math: true
 
 # Take a screen recording of the performance, upload to YouTube, and embed it in the blog post that discusses the practice of live coding.
 
-[![Video Thumbnail](static/250508/livecoding-screenshot.jpg)](https://youtu.be/9GoUfGlElUs)
+[![Video Thumbnail](/static/250508/livecoding-screenshot.jpg)](https://youtu.be/9GoUfGlElUs)
 
 1. A description of what live coding is.
 
