@@ -8,6 +8,8 @@ allow_math: true
 
 # Take a screen recording of the performance, upload to YouTube, and embed it in the blog post that discusses the practice of live coding.
 
+[![Video Thumbnail](static/250508/livecoding-screenshot.jpg)](https://youtu.be/9GoUfGlElUs)
+
 1. A description of what live coding is.
 
 Live coding is kinda like a performance to perform audio and visual through coding way and audience could see how the performer could set up all the things step by step. I think this kind of performance is more focus on the process but not the result. When coders coding, every steps would make different changes affecting the output. And sometimes it would be a syntax error lead to the performance interruption. As for the coders, I think it could be a group work or a individual work. But as for group work, it would be harder becuase coders would never know what did the other people did and maybe it would lead to an error.
