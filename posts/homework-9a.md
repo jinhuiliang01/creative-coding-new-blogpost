@@ -24,6 +24,10 @@ As for different LLMs, they have different benefits. Like Claude is good at form
 
 # Use Processing to make a gif
 
-![Waveform](/static/250509/sketch_250509c/waveform.gif)
+<source src="../static/250509/sketch_250509c/waveform.mp4" type="video/mp4">
+
+![waveform](../static/250509/sketch_250509c/waveform.mp4)
+
+<iframe id="waveform" src="/static/250509/sketch_250509c/waveform.mp4" title="waveform" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 I made a very simple DNA-like gif in Processing, and then I wanted to embed it in a markdown file, but for some reason the paths are correct, but the console in the browser says it can't read the resource.
