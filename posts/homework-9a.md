@@ -24,6 +24,14 @@ As for different LLMs, they have different benefits. Like Claude is good at form
 
 # Use Processing to make a gif
 
-<iframe id="waveform" src="https://youtu.be/HF9D6fwEmA4" title="waveform" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe 
+  id="coding_train_video" 
+  src="https://www.youtube.com/embed/HF9D6fwEmA4" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  referrerpolicy="strict-origin-when-cross-origin" 
+  allowfullscreen>
+</iframe>
 
-I made a very simple DNA-like gif in Processing, and then I wanted to embed it in a markdown file, but for some reason the paths are correct, but the console in the browser says it can't read the resource.
+In the tutorial, I saw how to get a quick start on a simple gif animation in Processing, and then I did something like a DNA rotation. Throughout this exploration, I think the most difficult part was the embedding of the markup file, as I couldn't import the gif directly, nor could I successfully import the video. Finally, I got a solution by asking Deepseek, which was to put a /embed/ in the middle of the URL.
