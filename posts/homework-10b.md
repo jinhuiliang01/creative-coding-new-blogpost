@@ -8,7 +8,7 @@ allow_math: true
 
 # Create a script that demonstrates what I have learned.
 
-![Art From Code(R)](/static/250520/Rplot.png)
+![Art From Code(R)](/250520/Rplot.png)
 
 https://www.youtube.com/watch?v=XHT1m-LKTVY
 
@@ -16,7 +16,7 @@ I found this tutorial to help me get started with R. I originally thought that t
 
 # Discussion of Art From Code (R)
 
-![Art From Code(R)](/static/250520/img2.jpg)
+![Art From Code(R)](/250520/img2.jpg)
 
 I can use R to create procedurally generated artworks by combining randomness, math, and visual libraries. And R has a goal for high resolution static compositing, scientific visual effects, data driven/data art, etc. They are better used for interactivity/animation if you are using p5 or processing.
 
