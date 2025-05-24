@@ -121,3 +121,7 @@ Lives the future of creation—
 Art and code as one
 
 # Use the text from task 5 as a voice-over for my speed-modulated screen recording
+
+<iframe id="coding_train_video" src="https://youtu.be/7nxEywj_n3c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+The whole editing process was pretty smooth, and the video is complete with friends playing my instruments. The part that was a bit painful was the haiku part, I had to get AI to generate a few versions of it, but there were some hard to pronounce rare characters, so there was no way to avoid it.
