@@ -123,8 +123,9 @@ Art and code as one
 # Use the text from task 5 as a voice-over for my speed-modulated screen recording
 
 <iframe 
-  id="coding_train_video" 
-  src="https://youtu.be/7nxEywj_n3c" 
+  width="560" 
+  height="315" 
+  src="https://www.youtube.com/embed/7nxEywj_n3c" 
   title="YouTube video player" 
   frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
