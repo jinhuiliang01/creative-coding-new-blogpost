@@ -9,6 +9,8 @@ allow_math: true
 # Create a patch of what I learned from the tutorial of TouchDesigner.
 
 <iframe 
+  width="560" 
+  height="315" 
   id="coding_train_video" 
   src="https://www.youtube.com/embed/WSq74lqrRm4" 
   title="YouTube video player" 
